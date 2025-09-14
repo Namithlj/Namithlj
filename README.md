@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Namith 👋
+Full Stack Developer | MERN | Angular | Spring Boot | Open Source Enthusiast
 
-<!--
-**Namithlj/Namithlj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Projects
+- [Real Estate App](https://github.com/Namithlj/realestate) - Property listing platform
+- [Event Management System](https://github.com/Namithlj/event-frontend) - Event booking platform
 
-Here are some ideas to get you started:
+## 🛠 Skills
+**Frontend:** React.js, Angular, HTML, CSS, JS  
+**Backend:** Node.js, Express.js, Spring Boot  
+**Databases:** MongoDB, MySQL  
+**Tools:** AWS, Git, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Namithlj&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Namithlj&layout=compact)
