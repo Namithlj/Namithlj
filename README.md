@@ -4,6 +4,8 @@ Full Stack Developer | MERN | Angular | Spring Boot | Open Source Enthusiast
 ## 🔭 Projects
 - [Real Estate App](https://github.com/Namithlj/realestate) - Property listing platform
 - [Event Management System](https://github.com/Namithlj/event-frontend) - Event booking platform
+- [Campus Placement Monitoring System](https://github.com/Namithlj/campus-placement) - Monitor student placements, upcoming recruitments, and department-wise placement stats
+
 
 ## 🛠 Skills
 
