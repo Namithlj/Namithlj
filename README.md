@@ -13,6 +13,16 @@
 - 💻 Check out my portfolio → **https://namithlj.github.io/portfolio/**  
 
 ---
+🔥 Open Source Contributions
+🧩 Antsack – Assessment Tracker (Ekart Frontend)
+
+🔗 Repo: assessment-tracker/ekart-frontend
+
+✔ Contributed UI fixes, state management improvements, and component-level optimizations
+✔ Enhanced React UI consistency and route handling
+✔ Improved reusable component structure for maintainabilit
+
+---
 
 ## 🔭 Featured Projects
 
