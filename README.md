@@ -9,7 +9,7 @@
 - 💼 Skilled in **Spring Boot, Node.js, Flask, MERN, Angular**  
 - 🌱 Learning **Golang, AWS, Distributed Systems**   
 - 🎯 Building production-ready apps and cloud-hosted systems  
-- 🧠 Solved **200+ LeetCode** problems  
+- 🧠 Solved **300+ LeetCode** problems  
 - 💻 Check out my portfolio → **https://namithlj.github.io/portfolio/**  
 
 ---
