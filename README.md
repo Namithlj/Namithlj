@@ -7,21 +7,10 @@
 ## 🚀 About Me
 - 🔧 Passionate about **backend engineering**, scalable systems, and API design  
 - 💼 Skilled in **Spring Boot, Node.js, Flask, MERN, Angular**  
-- 🌱 Learning **Golang, AWS, Distributed Systems**  
-- 🤝 Contributed to **AntStack – Online Assessment Open Source Project**  
+- 🌱 Learning **Golang, AWS, Distributed Systems**   
 - 🎯 Building production-ready apps and cloud-hosted systems  
 - 🧠 Solved **200+ LeetCode** problems  
 - 💻 Check out my portfolio → **https://namithlj.github.io/portfolio/**  
-
----
-
-## 🏆 Open Source Contributions
-
-### ✔ **AntStack – Online Assessment Platform**
-- Improved backend validation logic  
-- Fixed UI inconsistencies  
-- Optimized assessment flow  
-- *(Add your PR link for more visibility)*  
 
 ---
 
