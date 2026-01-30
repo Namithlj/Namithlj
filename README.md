@@ -97,6 +97,7 @@
 ### 🧪 Toxic Comment Detection (DL)
 
 🔗 Repo: https://github.com/Namithlj/Dl_comment_toxicity
+🌐 Live: https://dlcommenttoxicity1234567890.streamlit.app/
 
 - Built deep learning model for toxic comment classification
 - Implemented preprocessing, training, and evaluation pipeline
