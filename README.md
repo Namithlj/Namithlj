@@ -1,174 +1,221 @@
-<!-- Header -->
-<h1 align="center">Hi, I'm <span style="color:#61dafb">Namith</span> 👋</h1>
+<!-- HEADER -->
+
+<h1 align="center">Hi, I'm <span style="color:#4CAF50">Namith LJ</span> 👋</h1>
 <h3 align="center">Backend Engineer • Full Stack Developer • Systems Builder</h3>
 
----
+<p align="center">
+Bengaluru, India <br>
+<a href="mailto:namithnamith370@gmail.com">namithnamith370@gmail.com</a>
+</p>
 
-## 🚀 About Me
-
-- 🔧 Passionate about **backend engineering, scalable systems, and API design**
-- 💼 Strong in **Spring Boot, Node.js, Python, PostgreSQL, MongoDB**
-- 🌱 Currently learning **Golang, AWS, Distributed Systems**
-- 🏗️ Love building **production-style, end-to-end systems**
-- 🧠 Solved **390+ LeetCode problems**
-- 🌐 Portfolio: **https://namithlj.github.io/portfolio/**
-
----
-
-## 🔥 Open Source Contributions
-
-### 🧩 Antsack – Assessment Tracker (Ekart Frontend)
-
-✔ Contributed UI fixes, state management improvements, and component optimizations  
-✔ Improved React routing structure and component reusability  
-✔ Enhanced UI consistency and maintainability  
+<p align="center">
+<a href="https://linkedin.com/in/namithlj">LinkedIn</a> •
+<a href="https://github.com/Namithlj">GitHub</a> •
+<a href="https://leetcode.com/u/ljnamith">LeetCode</a> •
+<a href="https://namithlj.github.io/portfolio">Portfolio</a>
+</p>
 
 ---
 
-## 🔭 Featured Projects (Production-Style)
+# 🚀 About Me
+
+* 🎓 Final Year **Information Science Engineering** student at **Bangalore Institute of Technology**
+* 🔧 Passionate about **Backend Engineering, Distributed Systems, and API Design**
+* 💻 Strong in **Spring Boot, Node.js, PostgreSQL, MongoDB**
+* 🌱 Currently learning **Golang, AWS, Distributed Systems**
+* 🧠 Solved **400+ Data Structures & Algorithms problems on LeetCode**
+* 🏗️ Love building **production-style full stack systems**
 
 ---
 
-### 🎫 Event Management Platform (Full Stack)
+# 💼 Experience
 
-🔗 Frontend: https://github.com/Namithlj/event-frontend  
-🔗 Backend: https://github.com/Namithlj/event-backend  
-🌐 Live: https://event-frontend1-0rdr.onrender.com/
+## Software Development Engineer Intern
 
-**Tech:** Angular 17, Spring Boot, MySQL, Docker
+**Bluestock Fintech**
+📅 Nov 2025 – Dec 2025
 
-- Built a complete event booking system with admin & partner workflows
-- Implemented JWT authentication, RBAC, and transactional business logic
-- Designed scalable REST APIs and optimized SQL queries
-- Dockerized services and deployed full stack system
+* Developed **RESTful APIs using Java and Spring Boot**
+* Implemented **layered backend architecture**
+* Built **authentication workflows**
+* Optimized **SQL queries using joins and indexing**
+* Collaborated using **Git and Agile development practices**
+
+📄 Certificate:
+https://drive.google.com/file/d/1VdB9mnTAzcGRsIrgmCJdZYqr0ZLmHdcL/view
 
 ---
 
-### 🎓 Campus Placement Monitoring System
+# 🏗️ Featured Projects
 
-🔗 Repo: https://github.com/Namithlj/campus  
+---
+
+## 🎓 Campus Placement Monitoring System
+
+**Tech:** React • Spring Boot • PostgreSQL
+
+🔗 Repo: https://github.com/Namithlj/campus
 🌐 Live: https://campus-frontend-n15z.onrender.com/
 
-**Tech:** React, Spring Boot, PostgreSQL
-
-- Built backend APIs to manage students, companies, and placement records
-- Implemented pagination, filtering, and optimized SQL queries
-- Designed relational schema and analytics-style endpoints
+* Built **full-stack placement management platform**
+* Implemented **JWT authentication and RBAC**
+* Designed **optimized PostgreSQL schema**
+* Added **pagination and filtering APIs**
 
 ---
 
-### 🏡 Real Estate Platform
+## 🎫 Event Management Platform
 
-🔗 Repo: https://github.com/Namithlj/realestate  
+**Tech:** Angular 17 • Spring Boot • MySQL
+
+🔗 Backend: https://github.com/Namithlj/event-backend
+🔗 Frontend: https://github.com/Namithlj/event-frontend
+🌐 Live: https://event-frontend1-0rdr.onrender.com/
+
+* Built **secure event booking platform**
+* Implemented **JWT authentication**
+* Designed **relational schema**
+* Optimized **transactional queries**
+* Built **modular Angular components**
+
+---
+
+## 🏡 Real Estate Platform
+
+**Tech:** React • Node.js • Express • MongoDB
+
+🔗 Repo: https://github.com/Namithlj/realestate
 🌐 Live: https://realestate-f.vercel.app/
 
-**Tech:** React, Node.js, MongoDB
-
-- Built backend for property listing, filtering, and buyer workflows
-- Implemented pagination, indexing, and search optimization
-- Designed REST APIs and MongoDB schema for scale
-
----
-
-### 🧾 Expense Tracker
-
-🔗 Repo: https://github.com/Namithlj/expensetracker
-
-**Tech:** JavaScript, Node.js
-
-- Built a full CRUD expense management system
-- Implemented category-wise analytics and persistent storage
+* Built backend APIs for **property listings and buyer workflows**
+* Implemented **dynamic filtering queries**
+* Designed **MongoDB schema**
+* Built scalable **REST APIs**
 
 ---
 
-### 🧠 ML & AI Projects
+## 🧠 Toxic Comment Detection
 
----
-
-### 🔬 ML Models Collection
-
-🔗 Repo: https://github.com/Namithlj/ml
-
-- Contains notebooks for data preprocessing, training, and evaluation
-- Includes regression, classification, and experimentation pipelines
-
----
-
-### 🧪 Toxic Comment Detection (DL)
+**Tech:** Python • NLP • Streamlit
 
 🔗 Repo: https://github.com/Namithlj/Dl_comment_toxicity
 🌐 Live: https://dlcommenttoxicity1234567890.streamlit.app/
 
-- Built deep learning model for toxic comment classification
-- Implemented preprocessing, training, and evaluation pipeline
+* Built **machine learning pipeline for toxic comment classification**
+* Implemented **text preprocessing and feature extraction**
+* Trained classification models and deployed with **Streamlit**
 
 ---
 
-### 🧩 Backend Assessments & Intern Work
+# 🔬 Machine Learning Projects
+
+## ML Models Collection
+
+🔗 Repo: https://github.com/Namithlj/ml
+
+Contains experiments including:
+
+* Data preprocessing pipelines
+* Regression models
+* Classification models
+* Training and evaluation notebooks
 
 ---
 
-### 🛠️ Backend Assessment (Python)
+# 🧾 Backend & Assessment Projects
 
-🔗 Repo: https://github.com/Namithlj/Backend-assesment
+## Backend Assessment (Python)
 
-- Implemented REST APIs, business logic, and validation layers
+🔗 Repo:
+https://github.com/Namithlj/Backend-assesment
 
----
-
-### 🏗️ Kasparro Backend (Intern Task)
-
-🔗 Repo: (Private)
-
-- Built production-style backend modules and APIs
+* Implemented REST APIs
+* Built business logic layer
+* Added validation workflows
 
 ---
 
-### 🎨 Frontend Assessments
+## Kasparro Backend (Intern Task)
+
+Private repository.
+
+* Developed backend modules
+* Built production-style APIs
 
 ---
 
-### 🎯 Figma Frontend Assessment
+# 🎨 Frontend Projects
 
-🔗 Repo: https://github.com/Namithlj/figma-frontend-assessment
+## Figma Frontend Assessment
 
-- Converted Figma design into working React UI
+🔗 Repo:
+https://github.com/Namithlj/figma-frontend-assessment
 
----
-
-### ⚡ Pulse App
-
-🔗 Repo: https://github.com/Namithlj/pulse
+* Converted **Figma UI design into React application**
+* Built reusable UI components
 
 ---
 
-### 🧪 Other Projects
+## Pulse App
 
-- 🔗 https://github.com/Namithlj/realml
-- 🔗 https://github.com/Namithlj/signup
-- 🔗 https://github.com/Namithlj/internet-wedding-
+🔗 Repo:
+https://github.com/Namithlj/pulse
 
 ---
 
-## 🛠 Tech Stack
+# 🧪 Other Projects
 
-### 🔧 Backend
-Spring Boot • Node.js • Express • Python • REST APIs
+* https://github.com/Namithlj/expensetracker
+* https://github.com/Namithlj/realml
+* https://github.com/Namithlj/signup
+* https://github.com/Namithlj/internet-wedding-
 
-### 🎨 Frontend
-React • Angular • HTML • CSS • JavaScript • TypeScript
+---
+
+# 🛠 Technical Skills
+
+### 💻 Programming Languages
+
+Java • Python • JavaScript • TypeScript • Go • SQL
+
+### ⚙️ Backend Development
+
+Spring Boot • Node.js • Express.js • REST APIs • Microservices • JWT Authentication
+
+### 🎨 Frontend Development
+
+React • Angular • HTML • CSS
 
 ### 🗄 Databases
-PostgreSQL • MySQL • MongoDB
 
-### ☁ DevOps & Tools
-Docker • Git • Linux • Postman • CI/CD • AWS (learning)
+PostgreSQL • MySQL • MongoDB • Query Optimization
+
+### ☁ Cloud & DevOps
+
+Docker • Kubernetes • CI/CD • Git • Linux
+
+### 🧠 Computer Science
+
+Data Structures & Algorithms
+Operating Systems
+DBMS
+Computer Networks
+Object Oriented Programming
+System Design
 
 ---
 
-## 📊 GitHub Stats
+# 🏆 Achievements
 
-<div align="center">
+* 🧠 Solved **400+ Data Structures and Algorithms problems** on LeetCode
+* 🏁 Participant — **Adobe India Hackathon 2025**
+* 📊 Participant — **TVS IT EPIC 7.0 Analytics Challenge**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Namithlj&show_icons=true&theme=radical&hide_border=true" height="170">
 
@@ -176,21 +223,27 @@ Docker • Git • Linux • Postman • CI/CD • AWS (learning)
 
 <img src="https://streak-stats.demolab.com?user=Namithlj&theme=radical&hide_border=true" height="170">
 
-</div>
+</p>
 
 ---
 
-## 🧩 LeetCode
+# 🧩 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ljnamith?theme=dark&font=Nunito&ext=contest)
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/ljnamith?theme=dark&font=Nunito&ext=contest">
+
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/namithlj)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white)](https://namithlj.github.io/portfolio/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/ljnamith)
+<p align="center">
+
+<a href="https://linkedin.com/in/namithlj">LinkedIn</a> • <a href="https://github.com/Namithlj">GitHub</a> • <a href="https://leetcode.com/u/ljnamith">LeetCode</a> • <a href="https://namithlj.github.io/portfolio">Portfolio</a>
+
+</p>
 
 ---
 
