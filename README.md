@@ -5,7 +5,7 @@
 
 <p align="center">
 Bengaluru, India <br>
-<a href="mailto:namithnamith370@gmail.com">namithnamith370@gmail.com</a>
+<a href="mailto:namithnamith37@gmail.com">namithnamith37@gmail.com</a>
 </p>
 
 <p align="center">
